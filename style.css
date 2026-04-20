@@ -11,13 +11,13 @@ h1 {
   display: none;
 }
 
-img {
-  max-width: 75%;
+.headerlogo {
+  max-width: 25%;
   height: auto;
 }
 
-header a img {
-  max-width: 25%;
+img {
+  max-width: 75%;
   height: auto;
 }
 
