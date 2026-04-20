@@ -12,7 +12,12 @@ h1 {
 }
 
 img {
-  max-width: 50%;
+  max-width: 75%;
+  height: auto;
+}
+
+header a img {
+  max-width: 25%;
   height: auto;
 }
 
